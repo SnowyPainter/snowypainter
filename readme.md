@@ -10,4 +10,4 @@ And subtle white color & Jasmine scent
 * Born in 2006  
 * Study at middle school
 * Looking for a job (mail me)
-
+* Owner of [https://manufacture.tistory.com/](https://manufacture.tistory.com/)
