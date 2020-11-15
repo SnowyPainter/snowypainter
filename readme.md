@@ -1,13 +1,7 @@
-# Glad to meed you, I'm minwoo.
+# Glad to meet you, I'm minwoo.
 
+![primrose flower](./primrose.png)
 
-```
-I'm innocent as a rose,  
-A warm yellow dandlion on the asphalt,
-And subtle white color & Jasmine scent
-```
-
-* Born in 2006  
-* Study at middle school
-* Looking for a job (mail me)
+* Born in 2006, when primrose bloom
+* In middle school for studying
 * Owner of [https://manufacture.tistory.com/](https://manufacture.tistory.com/)
