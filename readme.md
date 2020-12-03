@@ -1,4 +1,4 @@
-# Glad to meet you, I'm minwoo.
+# Hi there
 ![primrose flower](./primrose.png)
 * Born in 2006, when primrose bloom
 ## Blog
