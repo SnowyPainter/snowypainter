@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 * 🎓 **Education:** 건국대학교 컴퓨터공학부 2학년
 * 🔬 **Current Role:** Undergraduate Researcher @ SCLab
-* 🧠 **Domain Focus:** * Time-Series Analysis & Quantitative Finance
+* 🧠 **Domain Focus:** * Point Process, Foundation Models
 
 ---
 
