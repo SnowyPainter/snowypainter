@@ -11,6 +11,7 @@
 
 | Project / Title | Role & Type | Core Tech & Key Contributions |
 | :--- | :--- | :--- |
+| **Foundation-Style Model for Link Anomaly Detection**<br>*[Submitted]* | 1st author | • . |
 | **Factorized Intensity Link Prediction Foundation Model**<br>*[Submitted]* | 1st author | • . |
 | **In Context Learning STPP Model**<br>*[Submitted]* | 1st author | • . |
 | **파괴적 CTDG에서의 Link Prediction 연구**<br>*[Under Review]* | 1st author | • 공개 데이터셋을 활용한 링크 프리딕션 |
